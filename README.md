@@ -46,9 +46,8 @@
 ---
 
 ### 📫 How to Reach Me:
-- 📧 Email: **keatjie01@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn Link] *(optional)*  
-- 🌐 Portfolio Website: **Coming soon!** (I’ll help you build one)  
+- 📧 Email: **keatjie01@gmail.com**   
+- 🌐 Portfolio Website: **Coming soon!**  
 
 ---
 
