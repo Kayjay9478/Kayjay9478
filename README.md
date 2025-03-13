@@ -21,27 +21,7 @@
 
 ### 💼 Projects:
 
-#### 📈 **1. Stock Price Scraper Bot**
-- **Tech stack:** Python, BeautifulSoup, Pandas  
-- **Description:** Built a scraper that fetches live stock prices from Yahoo Finance and outputs a daily report.  
-- **Next step:** Integrating it with a Telegram bot for instant updates.  
-- **[🔗 View Project](https://github.com/yourusername/stock-price-scraper)**  
-
----
-
-#### 🛠️ **2. Web Scraping E-Commerce Products**
-- **Tech stack:** Python, BeautifulSoup, Selenium  
-- **Description:** Scraped product prices and ratings from Shopee to track daily price changes for competitive analysis.  
-- **Next step:** Automating it and exporting data to a CSV report.  
-- **[🔗 View Project](https://github.com/yourusername/ecommerce-scraper)**  
-
----
-
-#### 📊 **3. Data Analysis - COVID-19 Global Trends**
-- **Tech stack:** Python, Pandas, Matplotlib  
-- **Description:** Analyzed COVID-19 data trends, visualized cases, deaths, and recovery rates globally.  
-- **Next step:** Adding a Power BI dashboard.  
-- **[🔗 View Project](https://github.com/yourusername/covid19-analysis)**  
+- **Coming soon!**  
 
 ---
 
